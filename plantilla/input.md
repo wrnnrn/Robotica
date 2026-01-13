@@ -1,1 +1,1 @@
-
+hazme una plantilla de una pagina web, quiero que estén separados en html y css. Tiene que tener 4 apartados sobre los robots: en la ficción, en la historia, en la actualidad y en el futuro. No rellenes el texto de los apartados. Añade comentarios en el código explicando cada parte (tampoco innecesarios, salta los triviales) 
